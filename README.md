@@ -2,21 +2,21 @@
 <p align="center"> Seja o herói que precisamos! </p>
 
 <table align="center">
-  <tr>
-    <th>
+  <tr align="center>
+    <th align="center>
       <img src="https://user-images.githubusercontent.com/33105610/78063497-b3e1ce80-7366-11ea-83f7-950d4625e506.png" width="350" height="200" />
-    <th>
+    </th >
     <th>
       <img src="https://user-images.githubusercontent.com/33105610/78063606-e12e7c80-7366-11ea-83b2-0bdbb7c90645.png" width="350" height="200" />
-    <th>
+    </th>
   </tr>
   <tr>
     <th>
       <img src="https://user-images.githubusercontent.com/33105610/78063642-ee4b6b80-7366-11ea-83fc-541f3ef67362.png" width="350" height="200" />
-    <th>
+    </th>
     <th>
       <img src="https://user-images.githubusercontent.com/33105610/78064662-79793100-7368-11ea-8da4-d0841e6eea39.png" width="350" height="200" />
-    <th>
+    </th>
   </tr>
 </table>
 
