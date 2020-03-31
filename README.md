@@ -2,13 +2,13 @@
 <p align="center"> Seja o herói que precisamos! </p>
 
 <table align="center">
-  <tr align="center>
-    <th align="center>
+  <tr>
+    <th>
       <img src="https://user-images.githubusercontent.com/33105610/78063497-b3e1ce80-7366-11ea-83f7-950d4625e506.png" width="350" height="200" />
-    </th >
+    <th >
     <th>
       <img src="https://user-images.githubusercontent.com/33105610/78063606-e12e7c80-7366-11ea-83b2-0bdbb7c90645.png" width="350" height="200" />
-    </th>
+    <th>
   </tr>
   <tr>
     <th>
