@@ -31,6 +31,7 @@
 * [Node.js](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
 
 
 
