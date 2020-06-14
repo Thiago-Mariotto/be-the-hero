@@ -1,4 +1,4 @@
-<h1 align="center"> 💂 Be The Hero </h1>
+<h1 align="center"> 💂  Be The Hero </h1>
 <p align="center"> Seja o herói que precisamos! </p>
 
 
