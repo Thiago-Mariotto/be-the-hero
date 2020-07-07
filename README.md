@@ -1,5 +1,5 @@
 <h1 align="center"> 💂  Be The Hero </h1>
-<p align="center"> Seja o herói que precisamos! </p>
+
 
 
 <table>
@@ -23,7 +23,8 @@
 
 <h2>💻 Ideia do projeto</h2>
 
-  Be the hero, tem o intuito de conectar Ongs com suas mais diversas campanhas, afim de encontrar possiveis doadores.
+  
+  Be the hero, aims to connect NGOs with their most diverse campaigns, in order to find possible donors.
 
 
 <h2> ❗️ Tecnologias </h2>
@@ -35,4 +36,4 @@
 
 
 
-<h6 align="center"> 🚀 Semana Oministack 11</h4>
+<h6 align="center"> 🚀 Week Oministack 11</h4>
